@@ -1,5 +1,5 @@
-## Hi Amigo, eu sou Airon 👋
-## Ben vindo ao meu perfil 👋
+## Hi Amigo, eu sou Airon, Bem vindo ao meu perfil 👋
+
 
 Desde pequeno, sou apaixonado por tecnologia e tudo que a envolve, desde jogos eletrônicos até foguetes. Sempre fui fascinado pelo poder da inovação e pelo impacto da tecnologia na sociedade. Como Analista de Sistemas formado e estudante de Ciência da Computação, estou constantemente buscando novos desafios e aprendizados para expandir meus conhecimentos e melhorar minhas habilidades.
 
